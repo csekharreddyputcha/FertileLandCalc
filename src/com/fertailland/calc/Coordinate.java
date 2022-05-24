@@ -14,7 +14,6 @@ public class Coordinate {
 	public Coordinate(Integer x, Integer y) {
 		this.x = x;
 		this.y = y;
-//        text = "-";
 	}
 
 	public Integer getX() {
