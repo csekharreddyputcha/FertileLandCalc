@@ -17,7 +17,7 @@ class FertialLandCalcTest {
 	  
 	    }
 	    
-	
+	    @Test
 	    public void testFindFertileLand2() {
 	        String[] strSTDIN = {"48 192 351 207", "48 392 351 407", "120 52 135 547", "260 52 275 547"};
 	        String STDOUT = "22816 192608 ";
